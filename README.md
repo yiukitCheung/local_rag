@@ -14,6 +14,11 @@ In our specific example, we'll build NutriChat, a RAG workflow that allows a per
 
 PDF source: https://pressbooks.oer.hawaii.edu/humannutrition2/ 
 
+## Acknowledgments
+
+- This project is based on [simple-local-rag](https://github.com/mrdbourke/simple-local-rag) by [Daniel Bourke](https://github.com/mrdbourke).
+- Code walkthrough video: [Build a RAG pipeline from scratch (YouTube)](https://youtu.be/qN_2fnOPY-M).
+
 You can also run notebook `00-simple-local-rag.ipynb` directly in [Google Colab](https://colab.research.google.com/github/mrdbourke/simple-local-rag/blob/main/00-simple-local-rag.ipynb). 
 
 TODO:
